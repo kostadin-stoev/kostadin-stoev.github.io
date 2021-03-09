@@ -21,4 +21,4 @@ Once you have installed the repository
 ## Disclaimer
 
 The add-ons in this repository are not created, maintained or in any way affiliated with the various content providers whose material they access. The add-ons simply provide an interface to access free, web-accesible, content from the various content providers websites.
-If you are a content provider whose material is accessed by one of the add-ons and have any issue or complaint - please [raise an issue](https://github.com/kostadin-stoev/kostadin-stoev.github.io/issues/new?labels=DMCA)
+If you are a content provider whose material is accessed by one of the add-ons and have any issue or complaint - please [raise an issue](https://github.com/kostadin-stoev/kostadin-stoev.github.io/issues/new)
